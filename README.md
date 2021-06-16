@@ -15,12 +15,14 @@
 
 
 <h2>More Info or Required dependencies</h2>
-<p>For styling Tachyons dependency is used</p>
-<p>For installing the following command is used:</p>
+<p>For styling Tachyons dependency is used<br>
+For installing the following command is used:</p>
 
 ### `npm install tachyons`
 
-<p>For generating the random user information API is used</p>
-<p>You can fetch the API from [here]('https://jsonplaceholder.typicode.com/users')</p>
+<hr>
+<p>For generating the random user information API is used<br>
+You can fetch the API from <a href="https://jsonplaceholder.typicode.com/users" rel="nofollow">here.</a></p>
+
   
 <p>If this repository was useful for you, please give a star <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> :)</p>
